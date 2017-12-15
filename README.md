@@ -9,4 +9,4 @@ Now run the executable file to generate the output.
 
 Output:
 -------
-Displays whether the concept can be learned or not for the particular class. Also displays the general and specific boundary for each class if concept learning is possible.
+Displays whether the concept can be learnt or not for the particular class. Also displays the general and specific boundary for each class if concept learning is possible.
